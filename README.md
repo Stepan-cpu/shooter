@@ -1,5 +1,5 @@
 # **shooter**
-##In this game you have to shoot at monsters.
+## In this game you have to shoot at monsters.
 # control
 ### moving to the right - right arrow
 ### moving to the left - left arrow
