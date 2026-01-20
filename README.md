@@ -1,6 +1,6 @@
 ## **shooter**
 In this game you have to shoot at monsters.
-# control
+control
 fire - space
 moving to the right - right arrow
 moving to the left - left arrow
