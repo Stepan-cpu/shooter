@@ -1,4 +1,4 @@
-# **shooter** rgb(40, 50, 50)
+# **shooter** 
 ## In this game you have to shoot at monsters.
 # control
 ### moving to the right - right arrow
